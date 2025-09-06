@@ -20,6 +20,7 @@ Which Country have the most Employees?
 
 ## The Dynamic Dashboard
 
+<img width="940" height="529" alt="Power BI Employee" src="https://github.com/user-attachments/assets/d730a2ce-8427-4478-90f2-e50f3539ee29" />
 
 ## Project Insight
 - The Company has 449 male and 240 female Employees.
@@ -34,5 +35,5 @@ Which Country have the most Employees?
 - This was my first Data Analysis Project in Power BI and it's Simple Project, All the scenario above is an imagination scenario in order to get in the story.
 - The Datasets that i used "Data Analysis Dataset" Excel Files.
 - For The PowerBI File it's the final product of this project.
-- And This is the Image of the Dashboard "Employees-Data-Analysis_Dashboard".
+- And This is the Image of the Dashboard "Power BI Employee".
 - All The Questions is from what i saw and could get from the data.
