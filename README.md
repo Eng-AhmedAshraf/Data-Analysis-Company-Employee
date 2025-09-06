@@ -1,9 +1,9 @@
 # Data-Analysis-Company-Employee-(Using Power BI)
 ## Project Objective
-A Company wants to know how effecient thier Employee do and 
+A Company wants to know how effecient thier Employee are, and How many the Company has based on Spesific Categories.
 
 ## The Used Dataset (The Excel Sheet)
-
+<a href ="https://github.com/Eng-AhmedAshraf/Data-Analysis-Company-Employee/blob/main/Employees.xlsx">Data Analysis Dataset</a>
 
 ## Questions
 What is the Numbers of both Genders in the Company?
@@ -33,6 +33,6 @@ Which Country have the most Employees?
 ## Note
 - This was my first Data Analysis Project in Power BI and it's Simple Project, All the scenario above is an imagination scenario in order to get in the story.
 - The Datasets that i used "Data Analysis Dataset" Excel Files.
-- For The "Data Analysis" Excel File it's the final product of this project..
+- For The PowerBI File it's the final product of this project.
 - And This is the Image of the Dashboard "Employees-Data-Analysis_Dashboard".
 - All The Questions is from what i saw and could get from the data.
