@@ -6,12 +6,12 @@ A Company wants to know how effecient thier Employee are, and How many the Compa
 <a href ="https://github.com/Eng-AhmedAshraf/Data-Analysis-Company-Employee/blob/main/Employees.xlsx">Data Analysis Dataset</a>
 
 ## Questions
-What is the Numbers of both Genders in the Company?
-What is The Number of Employees Baed on The Center?
-What is The Number of Employees in each Department?
-What is The Average Job hiring rate in the Company?
-What is the Monthely Sales the Company made?
-Which Country have the most Employees?
+- What is the Numbers of both Genders in the Company?
+- What is The Number of Employees Baed on The Center?
+- What is The Number of Employees in each Department?
+- What is The Average Job hiring rate in the Company?
+- What is the Monthely Sales the Company made?
+- Which Country have the most Employees?
 
 ## Process
 - Verify data for any missing or wrong values
